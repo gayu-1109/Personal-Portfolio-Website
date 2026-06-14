@@ -49,5 +49,4 @@ Aspiring Full Stack Developer | Data Analyst | AI/ML Enthusiast
 
 ## 📸 Screenshot
 
-### 🏠 Home Page
 ![Portfolio Home Page](screenshots/portfolio.png)
