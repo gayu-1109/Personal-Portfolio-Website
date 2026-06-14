@@ -47,6 +47,4 @@ The portfolio highlights my work in Full Stack Web Development, Data Analysis, M
 Gayatri Jadhav
 Aspiring Full Stack Developer | Data Analyst | AI/ML Enthusiast
 
-## 📸 Screenshot
-
-![Portfolio Home Page](screenshots/portfolio.png)
+![Portfolio Home Page](screenshot/portfolio.png)
