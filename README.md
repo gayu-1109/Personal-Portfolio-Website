@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website built using React, Vite, and 
 
 The portfolio highlights my work in Full Stack Web Development, Data Analysis, Machine Learning, and Artificial Intelligence (AI), featuring project showcases, resume download, certifications, and contact information in an interactive and user-friendly interface.
 
-🚀 Live Demo
+# 🚀 Live Demo
 🔗 View Portfolio Live
 
 [---link---]
@@ -21,7 +21,7 @@ The portfolio highlights my work in Full Stack Web Development, Data Analysis, M
 
 ✨ Custom UI & Animations
 
-📂 Features
+## 📂 Features
 
 🏠 Hero Section with stats (Projects, Internships, Certifications)
 
