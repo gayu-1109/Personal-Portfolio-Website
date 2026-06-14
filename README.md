@@ -41,10 +41,12 @@ The portfolio highlights my work in Full Stack Web Development, Data Analysis, M
 
 📱 Fully Responsive Design
 
+![Portfolio Home Page](screenshot/portfolio.png)
 
 👩‍💻 Developed by
 
 Gayatri Jadhav
+
 Aspiring Full Stack Developer | Data Analyst | AI/ML Enthusiast
 
-![Portfolio Home Page](screenshot/portfolio.png)
+
