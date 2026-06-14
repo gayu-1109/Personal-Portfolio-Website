@@ -7,7 +7,7 @@ The portfolio highlights my work in Full Stack Web Development, Data Analysis, M
 # 🚀 Live Demo
 🔗 View Portfolio Live
 
-[---link---]
+https://gayatri-jadhav.netlify.app/
 
 🛠️ Tech Stack
 
